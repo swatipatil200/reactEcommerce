@@ -8,7 +8,7 @@ Its my first website .In website I used HTML,CSS ,Javascript and REACTJS.
 
 ![Screenshot (104)](https://github.com/user-attachments/assets/046c1e6d-0c10-4a79-b99b-e59ad98b36ed)
 
-![Screenshot (99)](https://github.com/user-attachments/assets/a93d66b3-3d70-4af9-881f-8cf96d8f96af)
+![Screenshot (98)](https://github.com/user-attachments/assets/f2a23e9f-1693-4967-940a-94d34f944784)
 
 ![Screenshot (100)](https://github.com/user-attachments/assets/cd63d2cb-af70-4dad-9728-39d2e2b675a1)
 
